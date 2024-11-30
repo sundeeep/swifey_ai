@@ -3,19 +3,25 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
-      "@/*": ["./*"]
+      "@/*": [
+        "./*"
+      ]
     },
     "lib": [
       "dom",
       "dom.iterable",
       "esnext"
     ],
-    "types": ["node", "web"]
+    "types": [
+      "node",
+      "web"
+    ]
   },
   "include": [
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
-    "expo-env.d.ts"
+    "expo-env.d.ts",
+    "nativewind-env.d.ts"
   ]
 }
