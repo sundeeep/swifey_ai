@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "swifey_app",
-    "slug": "swifey_app",
+    "name": "swifey_ai",
+    "slug": "swifey_ai",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "swifey_ai",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
